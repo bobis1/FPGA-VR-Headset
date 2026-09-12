@@ -14,4 +14,14 @@ My goal with this session is to do substantial research about exactly how to imp
 - Recording link
 https://lapse.hackclub.com/timelapse/FKwI7hJ7bjrV
 
-**Total time spent: 1:34 hours**
+**Total time spent: 1.57 hours**
+
+# September 11
+
+I found out about a project that should help with reverse engineering the TDMS signals from the input HDMI port (Get rid of anything after 4 mins). There will be lots of struggle with this part of the project I am predicting. I first struggled with trying to find a good example circuit doing exactly what I was trying to do. ![HDMI](JournalPictures/9.11HDMIPort.png) I think that the verilog core generator for this should help tremendously with this. I also started to look at screens that would fit this application. I think that the minimum screen size for this would have to be 7 inches. The difficult thing is (Get rid of one at 59). I think that trying to split the screen in half and try to display slightly different images would be fairly difficult. As I was doing this I was also working on the Schematic I went through several iterations. Right now I think that it is incredibly flawed. ![Schematic](JournalPictures/9.11Schematic.png) and ![Schematic2](JournalPictures/9.11Schematic2.png).![alt text](image.png). This is the screen I was thinking about using for the VR headset. Overall, next time I need to investigate how I go from a 2D image to a sterographic image. I also need to try to fix the schematic.
+
+Recording Links:
+https://lapse.hackclub.com/timelapse/Nl5tw-8nKy2M
+and hackatime
+
+**Total Time Spent: 1.21 hours**
