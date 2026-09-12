@@ -3,9 +3,13 @@
 module main #(
     // Get the default blink divider from a macro defined in apio.ini.
     // In testing, the testbench override it with a very low value.
-    parameter integer N = `N
+    parameter integer N = pN
+		//parameter double X = `X
+		//parameter double Y = `Y
 ) (
     input  CLK,   // 12MHz clock
+		input X,
+		input Y,
     output LED1,
     output LED2
 );

@@ -14,6 +14,7 @@ My goal with this session is to do substantial research about exactly how to imp
 - Recording link
 https://lapse.hackclub.com/timelapse/FKwI7hJ7bjrV
 
+
 **Total time spent: 1.57 hours**
 
 # September 11

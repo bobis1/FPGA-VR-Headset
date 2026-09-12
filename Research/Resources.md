@@ -16,6 +16,8 @@ https://www.digi-electronics.com/en/blogs/hdmi-connector-pinout-19-pin-type-a-la
 https://leowhuang.medium.com/how-does-our-3d-world-go-into-a-2d-display-some-math-e5024c4b0b08
 https://en.wikipedia.org/wiki/Stereo_photography_techniques
 
+
+
 # USB C 3.0 wiring
 https://electronics.stackexchange.com/questions/158482/usb-3-0-rx-and-tx-lines
 
