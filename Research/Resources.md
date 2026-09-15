@@ -25,3 +25,5 @@ https://electronics.stackexchange.com/questions/158482/usb-3-0-rx-and-tx-lines
 # Screens to check out later
 https://www.adafruit.com/product/2354
 
+# Memory Sharing
+https://electronics.stackexchange.com/questions/273584/is-it-possible-to-communicate-single-spi-slave-with-two-spi-masters

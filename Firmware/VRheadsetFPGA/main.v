@@ -9,12 +9,10 @@ module main #(
 ) (
     input  CLK,   // 12MHz clock
 		input X,
-		input Y,
-    output LED1,
-    output LED2
+		input Y
 );
 
-  reg [31:0] counter = 0;
+  reg [31:0] total = 0;
 
   reg led = 0;
 
@@ -22,12 +20,15 @@ module main #(
   assign LED2 = !led;
 
   always @(posedge CLK) begin
-    if (counter >= N - 1) begin
+   /* if (counter >= N - 1) begin
       counter <= 0;
       led <= !led;
     end else begin
       counter <= counter + 1;
-    end
+    end*/
+    assign SUM = X + Y
+    
+    
   end
 
 endmodule
