@@ -27,3 +27,5 @@ https://www.adafruit.com/product/2354
 
 # Memory Sharing
 https://electronics.stackexchange.com/questions/273584/is-it-possible-to-communicate-single-spi-slave-with-two-spi-masters
+
+https://m.youtube.com/watch?v=jdCnqiov6es&utm_source=gemini&hl=en-US
