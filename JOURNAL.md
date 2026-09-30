@@ -35,3 +35,7 @@ Recording Links:
 https://lapse.hackclub.com/timelapse/a-z0Tn7CU--3
 
 **Total Time Spent: 1.01 hours**
+
+ # September 27
+
+I used AI try to talk through ideas on how to exactly calculate how I would try to go from an hdmi inputed image to a somewhat 3D scene. From this I found out that I am missing a very important part of the schematic that I have neglected. I need to add somekind of ram so that the framebuffer can work. I would prefer to use something other than flash memory since from what I know flash memory tends to "burn out" after awhile. For 1 frame on 2 400x400 screens it would take 7.68MB approximately assuming 24 byte colors. [This](Research/Datasheets/MT48LC%2032M16A2,64M8A2,128M4A2.pdf) is the datasheet for the memory module that I plan on using for this project. I have honestly never worked with this before so I have no idea what I am doing. I problem that I ran into once I started to work on this was that I think that I was missing some of the pins that were mentioned in the datasheet. The good thing is that the datasheet also mentions specific acronym that denotes that "global" is. I will need to check exactly whether the fpga I chose has a global output or not.
