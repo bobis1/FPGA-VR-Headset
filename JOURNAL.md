@@ -36,6 +36,18 @@ https://lapse.hackclub.com/timelapse/a-z0Tn7CU--3
 
 **Total Time Spent: 1.01 hours**
 
- # September 27
+ # October 6
 
 I used AI try to talk through ideas on how to exactly calculate how I would try to go from an hdmi inputed image to a somewhat 3D scene. From this I found out that I am missing a very important part of the schematic that I have neglected. I need to add somekind of ram so that the framebuffer can work. I would prefer to use something other than flash memory since from what I know flash memory tends to "burn out" after awhile. For 1 frame on 2 400x400 screens it would take 7.68MB approximately assuming 24 byte colors. [This](Research/Datasheets/MT48LC%2032M16A2,64M8A2,128M4A2.pdf) is the datasheet for the memory module that I plan on using for this project. I have honestly never worked with this before so I have no idea what I am doing. I problem that I ran into once I started to work on this was that I think that I was missing some of the pins that were mentioned in the datasheet. The good thing is that the datasheet also mentions specific acronym that denotes that "global" is. I will need to check exactly whether the fpga I chose has a global output or not.
+
+I ended up deciding to go a different route because I was running out of pins to actually drive the 512mb psram module on my FPGA. This project is going to end up taking much longer than I anticipated and I thought it would be a very long time. 
+
+I also wanted to finish up the schematic as a whole so I could start working on firmware. ![draft1](JournalPictures/10.6Draft1.png)
+This is what the schematic looks like right now. I feel like I have done. I have a feeling that I will need to revise and redo some of the parts of the schematic several times. Regardless I think that this has been a fairly productive week(Spend too much between doing hack club stuff.)
+
+Recording links:
+https://lapse.hackclub.com/timelapse/dr0Yxb4Lc5bN
+https://lapse.hackclub.com/timelapse/Ehrlwq-v5rRJ
+https://lapse.hackclub.com/timelapse/kY6nB22MeFRg
+
+**Total Time Spent: 1.9 hours**
