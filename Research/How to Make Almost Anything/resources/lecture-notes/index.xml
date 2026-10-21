@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lecture Notes on MIT OpenCourseWare</title>
+    <link>/resources/lecture-notes/</link>
+    <description>Recent content in Lecture Notes on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/lecture-notes/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>3D modeling: thing&#39;s I&#39;ve learned</title>
+      <link>/resources/3dmodeling/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/3dmodeling/data.json</guid>
+      <description>&lt;p&gt;Tips on computer modeling.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cutting with the Water-Jet</title>
+      <link>/resources/cuttingwiththewaterjet/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/cuttingwiththewaterjet/data.json</guid>
+      <description>&lt;p&gt;Instructions for cutting with a water-jet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Cutting with the Waterjet</title>
+      <link>/resources/cuttingwiththewaterget/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/cuttingwiththewaterget/data.json</guid>
+      <description>&lt;p&gt;Instructions for cutting with a water jet.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Laser Cutter Tutorial</title>
+      <link>/resources/tutorial/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/tutorial/data.json</guid>
+      <description>&lt;p&gt;Tutorial on the use of a laser cutter.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Lecture Notes</title>
+      <link>/pages/lecture-notes/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/lecture-notes/data.json</guid>
+      <description>&lt;p&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;Topics&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;Tutorials and Help&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;p&gt;&lt;/thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Design Tools&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Cobalt Tutorial&lt;/li&gt;&#xA;&lt;li&gt;3D Modelling Diatribe: Should I use Rhino or Cobalt? (Hayes Raffle)&lt;/li&gt;&#xA;&lt;li&gt;Folding Tutorial: How to Model a Polyhedron by &amp;ldquo;Folding Up&amp;rdquo; Flat Polygons (&lt;a href=&#34;../../resources/3dmodeling/index.html&#34;&gt;PDF&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Laser, Waterjet,&lt;br&gt;&#xA;NC Knife Cutting&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Converting Gerber to HPGL FILES (by C. Scott Ananian)&lt;/li&gt;&#xA;&lt;li&gt;Laser Cutter Tutorial (&lt;a href=&#34;../../resources/tutorial/index.html&#34;&gt;PDF&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Water Cutter Tutorial (&lt;a href=&#34;../../resources/cuttingwiththewaterget/index.html&#34;&gt;PDF&lt;/a&gt;)&lt;/li&gt;&#xA;&lt;li&gt;Manuals for the Laser Cutter and Water Cutter&lt;/li&gt;&#xA;&lt;li&gt;Rasterizing Images on the Laser Cutter&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/td&gt;&#xA;&#xA;&lt;p&gt;&lt;/tr&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Microcontroller&lt;br&gt;&#xA;Programming&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Your all-in-one page of links for &#34;Forming and Joining&#34;</title>
+      <link>/resources/formjoin/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/formjoin/data.json</guid>
+      <description>&lt;p&gt;Links to external websites on forming and joining.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

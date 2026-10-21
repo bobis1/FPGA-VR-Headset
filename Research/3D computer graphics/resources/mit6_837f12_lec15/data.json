@@ -1,0 +1,21 @@
+{
+  "content": "<p>This file contains information regarding lecture 15.</p>\n",
+  "content_type": "resource",
+  "description": "This file contains information regarding lecture 15.",
+  "draft": false,
+  "file": "/courses/6-837-computer-graphics-fall-2012/b86de2fe1a1084e56148f293da4a4dfd_MIT6_837F12_Lec15.pdf",
+  "file_size": 1862304,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Lecture Notes",
+  "parent_type": "CourseSection",
+  "parent_uid": "33297f4b-5cd8-5fd5-6713-da2dd75bc9f7",
+  "resourcetype": "Document",
+  "title": "Shading and Material Appearance",
+  "uid": "b86de2fe-1a10-84e5-6148-f293da4a4dfd"
+}

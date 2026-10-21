@@ -1,0 +1,112 @@
+{
+  "course_description": "This course provides introduction to computer graphics algorithms, software and hardware. Topics include: ray tracing, the graphics pipeline, transformations, texture mapping, shadows, sampling, global illumination, splines, animation and color. This course offers 6 Engineering Design Points in MIT's EECS program.\n",
+  "course_description_html": "This course provides introduction to computer graphics algorithms, software and hardware. Topics include: ray tracing, the graphics pipeline, transformations, texture mapping, shadows, sampling, global illumination, splines, animation and color. This course offers 6 Engineering Design Points in MIT&rsquo;s EECS program.",
+  "course_image": {
+    "content": "5f970c2a-425b-e1ab-8a55-e56b590e158a",
+    "website": "6-837-computer-graphics-fall-2012"
+  },
+  "course_image_metadata": {
+    "content_type": "resource",
+    "description": "This Cornell Box image, rendered at 1024x768 with 4 samples per pixel on a Dual P3 800MHz Linux-PC, showcases the simulation effect of ray tracing. Image Courtesy of Henrik Wann Jensen.",
+    "draft": false,
+    "file": "/courses/6-837-computer-graphics-fall-2012/5f970c2a425be1ab8a55e56b590e158a_6-837f12.jpg",
+    "file_size": 10280,
+    "file_type": "image/jpeg",
+    "image_metadata": {
+      "caption": "This Cornell Box image, rendered at 1024x768 with 4 samples per pixel on a Dual P3 800MHz Linux-PC, showcases the simulation effect of ray tracing. (Image courtesy of Henrik Wann Jensen.)",
+      "credit": "Image Courtesy of Henrik Wann Jensen.",
+      "image-alt": "Two reflective balls with reflection and shadows presented in a box of pink and purple walls with light source on top."
+    },
+    "iscjklanguage": false,
+    "learning_resource_types": [],
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "ocw_type": "OCWImage",
+    "resourcetype": "Image",
+    "title": "6-837f12.jpg",
+    "uid": "5f970c2a-425b-e1ab-8a55-e56b590e158a"
+  },
+  "course_image_thumbnail": {
+    "content": "24e1488e-0646-d3d5-eaf5-f5d0dfb19acb",
+    "website": "6-837-computer-graphics-fall-2012"
+  },
+  "course_title": "Computer Graphics",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "image_src": "./static_resources/5f970c2a425be1ab8a55e56b590e158a_6-837f12.jpg",
+  "instructors": [
+    {
+      "first_name": "Wojciech",
+      "last_name": "Matusik",
+      "middle_initial": "",
+      "salutation": "Prof.",
+      "title": "Prof. Wojciech Matusik",
+      "uid": "5ae29c0e-9c39-8623-5f28-6652c54b376e",
+      "url": "https://ocw.mit.edu/search/?q=Prof.+Wojciech+Matusik"
+    },
+    {
+      "first_name": "Frédo",
+      "last_name": "Durand",
+      "middle_initial": "",
+      "salutation": "Prof.",
+      "title": "Prof. Frédo Durand",
+      "uid": "15e82fce-0763-3608-6a37-6fb5a0591394",
+      "url": "https://ocw.mit.edu/search/?q=Prof.+Fr%C3%A9do+Durand"
+    }
+  ],
+  "learning_resource_types": [
+    "Exams",
+    "Lecture Notes",
+    "Programming Assignments"
+  ],
+  "legacy_uid": "464b11ed-050c-7397-b66d-3eb3d1354981",
+  "level": [
+    "Undergraduate"
+  ],
+  "mit_learn_topics": [
+    [
+      "Data Science, Analytics & Computer Technology",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Data Science, Analytics & Computer Technology",
+      "Computer Science"
+    ],
+    [
+      "Engineering"
+    ],
+    [
+      "Data Science, Analytics & Computer Technology",
+      "Programming & Coding"
+    ],
+    [
+      "Data Science, Analytics & Computer Technology",
+      "Visualization"
+    ]
+  ],
+  "primary_course_number": "6.837",
+  "site_short_id": "6.837-fall-2012",
+  "site_uid": "d90378c4-33b8-4275-a286-55c2ffbbea0e",
+  "site_url_path": "courses/6-837-computer-graphics-fall-2012",
+  "term": "Fall",
+  "title": "Course Metadata",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Algorithms and Data Structures"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Graphics and Visualization"
+    ],
+    [
+      "Engineering",
+      "Computer Science",
+      "Programming Languages"
+    ]
+  ],
+  "year": "2012"
+}

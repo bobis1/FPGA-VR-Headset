@@ -1,0 +1,21 @@
+{
+  "content": "<p>This file contains information regarding lecture 23.</p>\n",
+  "content_type": "resource",
+  "description": "This file contains information regarding lecture 23.",
+  "draft": false,
+  "file": "/courses/6-837-computer-graphics-fall-2012/9c1872964d555ec0ae5006a63d7636b4_MIT6_837F12_Lec23.pdf",
+  "file_size": 2964649,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Lecture Notes",
+  "parent_type": "CourseSection",
+  "parent_uid": "33297f4b-5cd8-5fd5-6713-da2dd75bc9f7",
+  "resourcetype": "Document",
+  "title": "Real-time Shadows",
+  "uid": "9c187296-4d55-5ec0-ae50-06a63d7636b4"
+}

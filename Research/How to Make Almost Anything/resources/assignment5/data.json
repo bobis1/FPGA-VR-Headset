@@ -1,0 +1,41 @@
+{
+  "audience": [],
+  "content": "<p>Assignment to produce some kind of packaging.</p>\n",
+  "content_type": "resource",
+  "description": "Assignment to produce some kind of packaging.",
+  "draft": false,
+  "file": "/courses/mas-863-how-to-make-almost-anything-fall-2002/d7fc286a4ee137cf40a3b789985b61e4_assignment5.pdf",
+  "file_size": 37344,
+  "file_type": "application/pdf",
+  "image_metadata": {
+    "caption": "",
+    "credit": "",
+    "image-alt": ""
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Design Assignments"
+  ],
+  "level": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Assignments",
+  "parent_type": "CourseSection",
+  "parent_uid": "7a94edfb-5c1f-a847-af48-e1a227f5f27d",
+  "resourcetype": "Document",
+  "title": "Assignment 5",
+  "uid": "d7fc286a-4ee1-37cf-40a3-b789985b61e4",
+  "video_files": {
+    "archive_url": "",
+    "video_captions_resources": [],
+    "video_thumbnail_file": "",
+    "video_transcript_resources": []
+  },
+  "video_metadata": {
+    "source": "",
+    "video_speakers": "",
+    "video_tags": "",
+    "youtube_description": "",
+    "youtube_id": ""
+  }
+}

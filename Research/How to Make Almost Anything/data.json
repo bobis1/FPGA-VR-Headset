@@ -1,0 +1,95 @@
+{
+  "course_description": "This course provides a hands-on introduction to the resources for designing and fabricating smart systems, including CAD/CAM/CAE; NC machining, 3-D printing, injection molding, laser cutting; PCB layout and fabrication; sensors and actuators; analog instrumentation; embedded digital processing; wired and wireless communications. This course also puts emphasis on learning how to use the tools as well as understand how they work.\n",
+  "course_description_html": "This course provides a hands-on introduction to the resources for designing and fabricating smart systems, including CAD/CAM/CAE; NC machining, 3-D printing, injection molding, laser cutting; PCB layout and fabrication; sensors and actuators; analog instrumentation; embedded digital processing; wired and wireless communications. This course also puts emphasis on learning how to use the tools as well as understand how they work.",
+  "course_image": {
+    "content": "2163303b-679d-345c-d6e7-15248a29fd20",
+    "website": "mas-863-how-to-make-almost-anything-fall-2002"
+  },
+  "course_image_metadata": {
+    "content_type": "resource",
+    "description": "Photo of the MIT Media Lab waterjet cutter at work. (Courtesy of Prof. Neil Gershenfeld and Prof. Issac Chuang.)",
+    "draft": false,
+    "file": "/courses/mas-863-how-to-make-almost-anything-fall-2002/2163303b679d345cd6e715248a29fd20_mas-863f02.jpg",
+    "file_size": 23033,
+    "file_type": "image/jpeg",
+    "image_metadata": {
+      "caption": "Photo of the MIT Media Lab waterjet cutter at work. (Courtesy of Prof. Neil Gershenfeld and Prof. Issac Chuang.)",
+      "credit": "",
+      "image-alt": "Photo of the MIT Media Lab waterjet cutter at work."
+    },
+    "iscjklanguage": false,
+    "learning_resource_types": [],
+    "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+    "ocw_type": "OCWImage",
+    "resourcetype": "Image",
+    "title": "Waterjet Cutter",
+    "uid": "2163303b-679d-345c-d6e7-15248a29fd20"
+  },
+  "course_image_thumbnail": {
+    "content": "5dd9ca3e-0475-99a9-f172-beadb00a3654",
+    "website": "mas-863-how-to-make-almost-anything-fall-2002"
+  },
+  "course_title": "How to Make (Almost) Anything",
+  "department_numbers": [
+    "MAS"
+  ],
+  "extra_course_numbers": "",
+  "image_src": "./static_resources/2163303b679d345cd6e715248a29fd20_mas-863f02.jpg",
+  "instructors": [
+    {
+      "first_name": "Isaac",
+      "last_name": "Chuang",
+      "middle_initial": "",
+      "salutation": "Prof.",
+      "title": "Prof. Isaac Chuang",
+      "uid": "de94fd31-c5dc-a8bf-9674-7c242c7bdb65",
+      "url": "https://ocw.mit.edu/search/?q=Prof.+Isaac+Chuang"
+    },
+    {
+      "first_name": "Neil",
+      "last_name": "Gershenfeld",
+      "middle_initial": "",
+      "salutation": "Prof.",
+      "title": "Prof. Neil Gershenfeld",
+      "uid": "48aa0ed8-8f38-38a4-51d1-21e9438b6421",
+      "url": "https://ocw.mit.edu/search/?q=Prof.+Neil+Gershenfeld"
+    }
+  ],
+  "learning_resource_types": [],
+  "legacy_uid": "03076a61-8eee-445e-53e9-9398dd284211",
+  "level": [
+    "Graduate"
+  ],
+  "mit_learn_topics": [
+    [
+      "Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ]
+  ],
+  "primary_course_number": "MAS.863",
+  "site_short_id": "mas.863-fall-2002",
+  "site_uid": "7428498d-f1c5-4233-823b-c802ccac5034",
+  "site_url_path": "courses/mas-863-how-to-make-almost-anything-fall-2002",
+  "term": "Fall",
+  "title": "Course Metadata",
+  "topics": [
+    [
+      "Engineering",
+      "Electrical Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Digital Systems"
+    ],
+    [
+      "Engineering",
+      "Systems Engineering"
+    ]
+  ],
+  "year": "2002"
+}

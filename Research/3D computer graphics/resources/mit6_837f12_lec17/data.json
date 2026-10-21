@@ -1,0 +1,21 @@
+{
+  "content": "<p>This file contains information regarding lecture 17.</p>\n",
+  "content_type": "resource",
+  "description": "This file contains information regarding lecture 17.",
+  "draft": false,
+  "file": "/courses/6-837-computer-graphics-fall-2012/d321c1aed9487039532e66f7355d7c9e_MIT6_837F12_Lec17.pdf",
+  "file_size": 1695676,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Lecture Notes",
+  "parent_type": "CourseSection",
+  "parent_uid": "33297f4b-5cd8-5fd5-6713-da2dd75bc9f7",
+  "resourcetype": "Document",
+  "title": "Sampling, Aliasing, and Mipmaps",
+  "uid": "d321c1ae-d948-7039-532e-66f7355d7c9e"
+}

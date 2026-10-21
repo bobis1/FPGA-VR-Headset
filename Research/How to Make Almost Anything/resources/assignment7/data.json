@@ -1,0 +1,41 @@
+{
+  "audience": [],
+  "content": "<p>Tutorial on the use of a laser cutter.</p>\n",
+  "content_type": "resource",
+  "description": "Tutorial on the use of a laser cutter.",
+  "draft": false,
+  "file": "/courses/mas-863-how-to-make-almost-anything-fall-2002/cd0ad333a066267bbcc3d484a1d52a22_Assignment7.pdf",
+  "file_size": 604893,
+  "file_type": "application/pdf",
+  "image_metadata": {
+    "caption": "",
+    "credit": "",
+    "image-alt": ""
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Design Assignments"
+  ],
+  "level": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Assignments",
+  "parent_type": "CourseSection",
+  "parent_uid": "7a94edfb-5c1f-a847-af48-e1a227f5f27d",
+  "resourcetype": "Document",
+  "title": "Laser Cutter Tutorial",
+  "uid": "cd0ad333-a066-267b-bcc3-d484a1d52a22",
+  "video_files": {
+    "archive_url": "",
+    "video_captions_resources": [],
+    "video_thumbnail_file": "",
+    "video_transcript_resources": []
+  },
+  "video_metadata": {
+    "source": "",
+    "video_speakers": "",
+    "video_tags": "",
+    "youtube_description": "",
+    "youtube_id": ""
+  }
+}

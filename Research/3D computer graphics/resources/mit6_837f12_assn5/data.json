@@ -1,0 +1,49 @@
+{
+  "audience": [],
+  "content": "<p>This resource contains information regarding assignment 5.</p>\n",
+  "content_type": "resource",
+  "description": "This resource contains information regarding assignment 5.",
+  "draft": false,
+  "file": "/courses/6-837-computer-graphics-fall-2012/c8f44300de5d661810d321d3ae30e916_MIT6_837F12_assn5.pdf",
+  "file_size": 305478,
+  "file_type": "application/pdf",
+  "image_metadata": {
+    "caption": "",
+    "credit": "",
+    "image-alt": ""
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "level": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Assignments",
+  "parent_type": "CourseSection",
+  "parent_uid": "2f610a3a-4ade-e0ff-11e9-c0ece5c872d3",
+  "resourcetype": "Document",
+  "title": "Ray tracing",
+  "uid": "c8f44300-de5d-6618-10d3-21d3ae30e916",
+  "video_files": {
+    "archive_url": "",
+    "video_captions_file": "",
+    "video_captions_resource": {
+      "content": "",
+      "website": "6-837-computer-graphics-fall-2012"
+    },
+    "video_thumbnail_file": "",
+    "video_transcript_file": "",
+    "video_transcript_resource": {
+      "content": "",
+      "website": "6-837-computer-graphics-fall-2012"
+    }
+  },
+  "video_metadata": {
+    "source": "",
+    "video_speakers": "",
+    "video_tags": "",
+    "youtube_description": "",
+    "youtube_id": ""
+  }
+}

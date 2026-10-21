@@ -1,0 +1,21 @@
+{
+  "content": "<p>This file contains information regarding lecture 13.</p>\n",
+  "content_type": "resource",
+  "description": "This file contains information regarding lecture 13.",
+  "draft": false,
+  "file": "/courses/6-837-computer-graphics-fall-2012/82386bc224584b05882a063653987870_MIT6_837F12_Lec13.pdf",
+  "file_size": 3023785,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Lecture Notes",
+  "parent_type": "CourseSection",
+  "parent_uid": "33297f4b-5cd8-5fd5-6713-da2dd75bc9f7",
+  "resourcetype": "Document",
+  "title": "Ray Tracing",
+  "uid": "82386bc2-2458-4b05-882a-063653987870"
+}

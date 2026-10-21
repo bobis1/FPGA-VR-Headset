@@ -1,0 +1,16 @@
+
+{
+  "content": "<p>This page provides some quizzes and final exams from prior years, as a study aid. The 2003 class had several quizzes during the term, while later years used just one quiz at the midterm followed by a final exam.</p>\n<p><table>\n\n<thead>\n\n<tr>\n\n<th>\n\nEXAMS\n</th>\n\n<th>\n\nYEARS\n</th>\n</p>\n</tr>\n\n<p></thead>\n\n<tr>\n\n<td>\n\nQuizzes\n</td>\n\n<td>\n</p>\n<p><a href=\"../../resources/mit6_837f12_2003qz1_ray_tr/index.html\">2003 ray tracing quiz (PDF)</a></p>\n<p><a href=\"../../resources/mit6_837f12_2003_qz_1/index.html\">2003 quiz 1 (PDF)</a></p>\n<p><a href=\"../../resources/mit6_837f12_2003_qz_2/index.html\">2003 quiz 2 (PDF)</a></p>\n<p><a href=\"../../resources/mit6_837f12_2006_qz_1/index.html\">2006 quiz 1 (PDF)</a></p>\n<p><a href=\"../../resources/mit6_837f12_2010_qz_1/index.html\">2010 quiz 1 (PDF)</a></p>\n<p><a href=\"../../resources/mit6_837f12_2011_qz1/index.html\">2011 quiz 1 (PDF - 1.4MB)</a></p>\n</td>\n\n<p></tr>\n\n<tr>\n\n<td>\n\nFinal Exam\n</td>\n\n<td>\n</p>\n<p><a href=\"../../resources/mit6_837f12_2009_final/index.html\">2009 final exam (PDF)</a></p>\n<p><a href=\"../../resources/mit6_837f12_2010_final/index.html\">2010 final exam (PDF)</a></p>\n<p><a href=\"../../resources/mit6_837f12_2011_final/index.html\">2011 final exam (PDF)</a></p>\n</td>\n\n</tr>\n\n</table>\n\n",
+  "content_type": "page",
+  "description": "This page provides a selection of quizzes and final exams from prior years as a study aid.",
+  "draft": false,
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Exams"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "CourseSection",
+  "title": "Prior Year Exams",
+  "uid": "66408b99-8ea4-ad11-58f4-167bb945e57c"
+}
+

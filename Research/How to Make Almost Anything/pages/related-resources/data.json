@@ -1,0 +1,14 @@
+
+{
+  "content": "\n    <h3 id=\"web-sites-used-for-help-with-circuit-design\">Web Sites Used for Help with Circuit Design</h3>\n\n<ul>\n<li><a   class=\"external-link \"   target=\"_blank\"   href=\"http://www.findchips.com/\"  aria-label=\"www.findchips.com (opens in a new tab)\"  ><a href=\"https://www.findchips.com\" target=\"_blank\" rel=\"noopener\">www.findchips.com</a></a></li>\n<li><a   class=\"external-link \"   target=\"_blank\"   href=\"http://www.digikey.com/\"  aria-label=\"www.digikey.com (opens in a new tab)\"  ><a href=\"https://www.digikey.com\" target=\"_blank\" rel=\"noopener\">www.digikey.com</a></a></li>\n<li><a   class=\"external-link \"   target=\"_blank\"   href=\"http://www.ti.com/\"  aria-label=\"www.TI.com (opens in a new tab)\"  ><a href=\"https://www.TI.com\" target=\"_blank\" rel=\"noopener\">www.TI.com</a></a></li>\n</ul>\n\n    <h3 id=\"midi-stuff\">Midi Stuff</h3>\n\n<ul>\n<li><a   class=\"external-link \"   target=\"_blank\"   href=\"http://web.archive.org/web/20090406111755/http://www.tigoe.net/pcomp/code/category/code/picbasic-pro/161\"  aria-label=\"http://web.archive.org/web/20090406111755/http://www.tigoe.net/pcomp/code/category/code/picbasic-pro/161 (opens in a new tab)\"  >http://web.archive.org/web/20090406111755/http://www.tigoe.net/pcomp/code/category/code/picbasic-pro/161</a></li>\n<li><a   class=\"external-link \"   target=\"_blank\"   href=\"https://midi.org/\"  aria-label=\"MIDI Association (opens in a new tab)\"  >MIDI Association</a></li>\n<li><a   class=\"external-link \"   target=\"_blank\"   href=\"http://www.cs.princeton.edu/courses/archive/fall02/cs436/\"  aria-label=\"http://www.cs.princeton.edu/courses/archive/fall02/cs436/ (opens in a new tab)\"  >http://www.cs.princeton.edu/courses/archive/fall02/cs436/</a></li>\n</ul>\n",
+  "content_type": "page",
+  "description": "This section provides links to helpful websites on circuit design and MIDI.",
+  "draft": false,
+  "iscjklanguage": false,
+  "learning_resource_types": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "CourseSection",
+  "title": "Related Resources",
+  "uid": "ff5c5008-7f08-cfae-4fe3-6d3560d61e5a"
+}
+

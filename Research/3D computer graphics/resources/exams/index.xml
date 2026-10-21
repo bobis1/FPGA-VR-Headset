@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Exams on MIT OpenCourseWare</title>
+    <link>/resources/exams/</link>
+    <description>Recent content in Exams on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/exams/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2003</title>
+      <link>/resources/mit6_837f12_2003_qz_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_837f12_2003_qz_1/data.json</guid>
+      <description>&lt;p&gt;This resource contains information regarding quiz 1.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2003</title>
+      <link>/resources/mit6_837f12_2003_qz_2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_837f12_2003_qz_2/data.json</guid>
+      <description>&lt;p&gt;This resource contains information regarding quiz 2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2003_ray tracing</title>
+      <link>/resources/mit6_837f12_2003qz1_ray_tr/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_837f12_2003qz1_ray_tr/data.json</guid>
+      <description>&lt;p&gt;This resource contains information regarding quiz 1.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2006</title>
+      <link>/resources/mit6_837f12_2006_qz_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_837f12_2006_qz_1/data.json</guid>
+      <description>&lt;p&gt;This resource contains information regarding quiz 1.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2009</title>
+      <link>/resources/mit6_837f12_2009_final/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_837f12_2009_final/data.json</guid>
+      <description>&lt;p&gt;This resource contains information regarding quiz 1.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2010</title>
+      <link>/resources/mit6_837f12_2010_final/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_837f12_2010_final/data.json</guid>
+      <description>&lt;p&gt;This resource contains information regarding quiz 2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2010</title>
+      <link>/resources/mit6_837f12_2010_qz_1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_837f12_2010_qz_1/data.json</guid>
+      <description>&lt;p&gt;This resource contains information regarding quiz 1.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2011</title>
+      <link>/resources/mit6_837f12_2011_final/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_837f12_2011_final/data.json</guid>
+      <description>&lt;p&gt;This resource contains information regarding quiz 2.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>2011 quiz 1</title>
+      <link>/resources/mit6_837f12_2011_qz1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/mit6_837f12_2011_qz1/data.json</guid>
+      <description>&lt;p&gt;This file contains the 2011 quiz 1 questions.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prior Year Exams</title>
+      <link>/pages/old-exams/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/pages/old-exams/data.json</guid>
+      <description>&lt;p&gt;This page provides some quizzes and final exams from prior years, as a study aid. The 2003 class had several quizzes during the term, while later years used just one quiz at the midterm followed by a final exam.&lt;/p&gt;&#xA;&lt;p&gt;&lt;table&gt;&#xA;&#xA;&lt;thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;EXAMS&#xA;&lt;/th&gt;&#xA;&#xA;&lt;th&gt;&#xA;&#xA;YEARS&#xA;&lt;/th&gt;&#xA;&lt;/p&gt;&#xA;&lt;/tr&gt;&#xA;&#xA;&lt;p&gt;&lt;/thead&gt;&#xA;&#xA;&lt;tr&gt;&#xA;&#xA;&lt;td&gt;&#xA;&#xA;Quizzes&#xA;&lt;/td&gt;&#xA;&#xA;&lt;td&gt;&#xA;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit6_837f12_2003qz1_ray_tr/index.html&#34;&gt;2003 ray tracing quiz (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit6_837f12_2003_qz_1/index.html&#34;&gt;2003 quiz 1 (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit6_837f12_2003_qz_2/index.html&#34;&gt;2003 quiz 2 (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit6_837f12_2006_qz_1/index.html&#34;&gt;2006 quiz 1 (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit6_837f12_2010_qz_1/index.html&#34;&gt;2010 quiz 1 (PDF)&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;../../resources/mit6_837f12_2011_qz1/index.html&#34;&gt;2011 quiz 1 (PDF - 1.4MB)&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

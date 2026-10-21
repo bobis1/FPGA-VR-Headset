@@ -1,0 +1,21 @@
+{
+  "content": "<p>This file contains information regarding lecture 4.</p>\n",
+  "content_type": "resource",
+  "description": "This file contains information regarding lecture 4.",
+  "draft": false,
+  "file": "/courses/6-837-computer-graphics-fall-2012/2b1e96254c4dc35b2f5cb1d48714c6d4_MIT6_837F12_Lec04.pdf",
+  "file_size": 2212307,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Lecture Notes",
+  "parent_type": "CourseSection",
+  "parent_uid": "33297f4b-5cd8-5fd5-6713-da2dd75bc9f7",
+  "resourcetype": "Document",
+  "title": "Hierarchical Modeling",
+  "uid": "2b1e9625-4c4d-c35b-2f5c-b1d48714c6d4"
+}

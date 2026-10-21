@@ -1,0 +1,21 @@
+{
+  "content": "<p>This resource contains information regarding quiz 1.</p>\n",
+  "content_type": "resource",
+  "description": "This resource contains information regarding quiz 1.",
+  "draft": false,
+  "file": "/courses/6-837-computer-graphics-fall-2012/bd1dc9cdb744de87238ef9d34735546c_MIT6_837F12_2003qz1_ray_tr.pdf",
+  "file_size": 319289,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Exams"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Prior Year Exams",
+  "parent_type": "CourseSection",
+  "parent_uid": "66408b99-8ea4-ad11-58f4-167bb945e57c",
+  "resourcetype": "Document",
+  "title": "2003_ray tracing",
+  "uid": "bd1dc9cd-b744-de87-238e-f9d34735546c"
+}

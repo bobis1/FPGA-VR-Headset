@@ -1,0 +1,21 @@
+{
+  "content": "<p>This file contains information regarding lecture 5.</p>\n",
+  "content_type": "resource",
+  "description": "This file contains information regarding lecture 5.",
+  "draft": false,
+  "file": "/courses/6-837-computer-graphics-fall-2012/2d7476b0ce37e364ac728cd4c8ff41f4_MIT6_837F12_Lec05.pdf",
+  "file_size": 3697736,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Lecture Notes",
+  "parent_type": "CourseSection",
+  "parent_uid": "33297f4b-5cd8-5fd5-6713-da2dd75bc9f7",
+  "resourcetype": "Document",
+  "title": "Color",
+  "uid": "2d7476b0-ce37-e364-ac72-8cd4c8ff41f4"
+}

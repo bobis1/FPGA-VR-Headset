@@ -1,0 +1,21 @@
+{
+  "content": "<p>This file contains information regarding lecture 1.</p>\n",
+  "content_type": "resource",
+  "description": "This file contains information regarding lecture 1.",
+  "draft": false,
+  "file": "/courses/6-837-computer-graphics-fall-2012/aba8735cf2cf7c71ca5d29b46873309a_MIT6_837F12_Lec01.pdf",
+  "file_size": 994369,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Lecture Notes",
+  "parent_type": "CourseSection",
+  "parent_uid": "33297f4b-5cd8-5fd5-6713-da2dd75bc9f7",
+  "resourcetype": "Document",
+  "title": "Bezier Curves and Splines",
+  "uid": "aba8735c-f2cf-7c71-ca5d-29b46873309a"
+}

@@ -1,0 +1,49 @@
+{
+  "audience": [],
+  "content": "<p>This resource contains information regarding assignment 3.</p>\n",
+  "content_type": "resource",
+  "description": "This resource contains information regarding assignment 3.",
+  "draft": false,
+  "file": "/courses/6-837-computer-graphics-fall-2012/2e73bf4e85143a357755d7da9d42b29a_MIT6_837F12_assn3.pdf",
+  "file_size": 321489,
+  "file_type": "application/pdf",
+  "image_metadata": {
+    "caption": "",
+    "credit": "",
+    "image-alt": ""
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Problem Sets"
+  ],
+  "level": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Assignments",
+  "parent_type": "CourseSection",
+  "parent_uid": "2f610a3a-4ade-e0ff-11e9-c0ece5c872d3",
+  "resourcetype": "Document",
+  "title": "Physically-based simulation",
+  "uid": "2e73bf4e-8514-3a35-7755-d7da9d42b29a",
+  "video_files": {
+    "archive_url": "",
+    "video_captions_file": "",
+    "video_captions_resource": {
+      "content": "",
+      "website": "6-837-computer-graphics-fall-2012"
+    },
+    "video_thumbnail_file": "",
+    "video_transcript_file": "",
+    "video_transcript_resource": {
+      "content": "",
+      "website": "6-837-computer-graphics-fall-2012"
+    }
+  },
+  "video_metadata": {
+    "source": "",
+    "video_speakers": "",
+    "video_tags": "",
+    "youtube_description": "",
+    "youtube_id": ""
+  }
+}

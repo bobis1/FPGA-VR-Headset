@@ -1,0 +1,21 @@
+{
+  "content": "<p>This Cornell Box image, rendered at 1024x768 with 4 samples per pixel on a Dual P3 800MHz Linux-PC, showcases the simulation effect of ray tracing. Image Courtesy of Henrik Wann Jensen.</p>\n",
+  "content_type": "resource",
+  "description": "This Cornell Box image, rendered at 1024x768 with 4 samples per pixel on a Dual P3 800MHz Linux-PC, showcases the simulation effect of ray tracing. Image Courtesy of Henrik Wann Jensen.\r\n\r\n",
+  "draft": false,
+  "file": "/courses/6-837-computer-graphics-fall-2012/24e1488e0646d3d5eaf5f5d0dfb19acb_6-837f12-th.jpg",
+  "file_size": 4029,
+  "file_type": "image/jpeg",
+  "image_metadata": {
+    "caption": "This Cornell Box image, rendered at 1024x768 with 4 samples per pixel on a Dual P3 800MHz Linux-PC, showcases the simulation effect of ray tracing. (Image courtesy of Henrik Wann Jensen.)",
+    "credit": "Image Courtesy of Henrik Wann Jensen.",
+    "image-alt": "Two reflective balls with reflection and shadows presented in a box of pink and purple walls with light source on top."
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWImage",
+  "resourcetype": "Image",
+  "title": "6-837f12-th.jpg",
+  "uid": "24e1488e-0646-d3d5-eaf5-f5d0dfb19acb"
+}

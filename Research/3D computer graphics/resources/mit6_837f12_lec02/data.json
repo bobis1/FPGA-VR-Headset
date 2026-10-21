@@ -1,0 +1,21 @@
+{
+  "content": "<p>This file contains information regarding lecture 2.</p>\n",
+  "content_type": "resource",
+  "description": "This file contains information regarding lecture 2.",
+  "draft": false,
+  "file": "/courses/6-837-computer-graphics-fall-2012/38682e92015a39734867853f57ccf55b_MIT6_837F12_Lec02.pdf",
+  "file_size": 1758173,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Lecture Notes",
+  "parent_type": "CourseSection",
+  "parent_uid": "33297f4b-5cd8-5fd5-6713-da2dd75bc9f7",
+  "resourcetype": "Document",
+  "title": "Curves Properties and Conversion, Surface Representation",
+  "uid": "38682e92-015a-3973-4867-853f57ccf55b"
+}

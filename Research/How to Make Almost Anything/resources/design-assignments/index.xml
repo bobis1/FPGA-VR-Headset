@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Design Assignments on MIT OpenCourseWare</title>
+    <link>/resources/design-assignments/</link>
+    <description>Recent content in Design Assignments on MIT OpenCourseWare</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <atom:link href="/resources/design-assignments/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Assignment 1: Interspecies Information Technology</title>
+      <link>/resources/assignment1/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/assignment1/data.json</guid>
+      <description>&lt;p&gt;Assignment to design, model, and render a computer interface, usable by a large animal.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assignment 10: FPGA assignment</title>
+      <link>/resources/assignment10/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/assignment10/data.json</guid>
+      <description>&lt;p&gt;Assignment to  implement a one- or two-player game using a field-programmable gate array.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assignment 2</title>
+      <link>/resources/assignment2/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/assignment2/data.json</guid>
+      <description>&lt;p&gt;Machining assignment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assignment 3</title>
+      <link>/resources/assignment3/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/assignment3/data.json</guid>
+      <description>&lt;p&gt;Assignment to machine a self-inverting top.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assignment 4</title>
+      <link>/resources/assignment4/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/assignment4/data.json</guid>
+      <description>&lt;p&gt;Machining assignment.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assignment 5</title>
+      <link>/resources/assignment5/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/assignment5/data.json</guid>
+      <description>&lt;p&gt;Assignment to produce some kind of packaging.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assignment 6</title>
+      <link>/resources/assignment6/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/assignment6/data.json</guid>
+      <description>&lt;p&gt;Assignment to create a web page to describe and illustrate a planned semester project.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Assignment 8</title>
+      <link>/resources/assignment8/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/assignment8/data.json</guid>
+      <description>&lt;p&gt;Assignment on wireless communication.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Laser Cutter Tutorial</title>
+      <link>/resources/assignment7/data.json</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>/resources/assignment7/data.json</guid>
+      <description>&lt;p&gt;Tutorial on the use of a laser cutter.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

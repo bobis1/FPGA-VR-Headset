@@ -1,0 +1,21 @@
+{
+  "content": "<p>This file contains information regarding lecture 16.</p>\n",
+  "content_type": "resource",
+  "description": "This file contains information regarding lecture 16.",
+  "draft": false,
+  "file": "/courses/6-837-computer-graphics-fall-2012/023f0bddca0a9bf5fa77f7a0db6718ab_MIT6_837F12_Lec16.pdf",
+  "file_size": 2321757,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Lecture Notes",
+  "parent_type": "CourseSection",
+  "parent_uid": "33297f4b-5cd8-5fd5-6713-da2dd75bc9f7",
+  "resourcetype": "Document",
+  "title": "Texture Mapping & Shaders",
+  "uid": "023f0bdd-ca0a-9bf5-fa77-f7a0db6718ab"
+}

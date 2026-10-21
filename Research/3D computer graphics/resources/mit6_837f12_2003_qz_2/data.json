@@ -1,0 +1,21 @@
+{
+  "content": "<p>This resource contains information regarding quiz 2.</p>\n",
+  "content_type": "resource",
+  "description": "This resource contains information regarding quiz 2.",
+  "draft": false,
+  "file": "/courses/6-837-computer-graphics-fall-2012/50aad24f5a60893aeb37a6be3fce55ff_MIT6_837F12_2003_qz_2.pdf",
+  "file_size": 174851,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Exams"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Prior Year Exams",
+  "parent_type": "CourseSection",
+  "parent_uid": "66408b99-8ea4-ad11-58f4-167bb945e57c",
+  "resourcetype": "Document",
+  "title": "2003",
+  "uid": "50aad24f-5a60-893a-eb37-a6be3fce55ff"
+}

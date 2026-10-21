@@ -1,0 +1,21 @@
+{
+  "content": "<p>This file contains information regarding lecture 10.</p>\n",
+  "content_type": "resource",
+  "description": "This file contains information regarding lecture 10.",
+  "draft": false,
+  "file": "/courses/6-837-computer-graphics-fall-2012/53c5b275d4fb9eba7968e6e80047f2d4_MIT6_837F12_Lec10.pdf",
+  "file_size": 1212293,
+  "file_type": "application/pdf",
+  "iscjklanguage": false,
+  "learning_resource_types": [
+    "Lecture Notes"
+  ],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWFile",
+  "parent_title": "Lecture Notes",
+  "parent_type": "CourseSection",
+  "parent_uid": "33297f4b-5cd8-5fd5-6713-da2dd75bc9f7",
+  "resourcetype": "Document",
+  "title": "Collision Detection and Response",
+  "uid": "53c5b275-d4fb-9eba-7968-e6e80047f2d4"
+}

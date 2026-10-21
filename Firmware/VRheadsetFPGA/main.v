@@ -4,30 +4,66 @@ module main #(
     // Get the default blink divider from a macro defined in apio.ini.
     // In testing, the testbench override it with a very low value.
     parameter integer N = pN
+    reg initialRAMCount = 0;
+    parameter integer initialRAMCountEnd = 12375
+    reg isInitialized = 0;
+    reg currentFrame = 0; // Since we have a 3 frame buffer, 400x400 each with 12 bit color it will cycle through 0-2.
+
 		//parameter double X = `X
 		//parameter double Y = `Y
 ) (
     input  CLK,   // 12MHz clock
 		input X,
-		input Y
+		input Y,
+    input TMDSD0S,
+    input TMDSD1S,
+    input TMDSD2S,
+    output CE0,
+    output CE1,
+    output CE2,
+    output RAMCLK,
+    inout Si00,
+    inout SI01,
+    inout SI02,
+    inout SI03
 );
 
-  reg [31:0] total = 0;
+  wire FCLK;
 
-  reg led = 0;
+  SB_PLL40_CORE #(
+    .FEEDBACK_PATH("SIMPLE"),
+    .DIVR(4'b0000),         
+    .DIVF(7'b0110111),    
+    .DIVQ(3'b011),          
+    .FILTER_RANGE(3'b001)
+) my_pll (
+    .REFERENCECLK(CLK),     
+    .PLLOUTCORE(FCLK),  
+    .LOCK(),                
+    .RESETB(1'b1),          
+    .BYPASS(1'b0)           
+);
 
-  assign LED1 = led;
-  assign LED2 = !led;
+  assign RAMCLK = FCLK;
 
-  always @(posedge CLK) begin
-   /* if (counter >= N - 1) begin
-      counter <= 0;
-      led <= !led;
-    end else begin
-      counter <= counter + 1;
-    end*/
-    assign SUM = X + Y
-    
+  always @(posedge FCLK) begin
+   if (initialRAMCount <= initialRAMCountEnd) begin
+       assign initialRAMCount = initialRAMCount + 1;
+   end
+    if (initialRAMCount >= initialRAMCountEnd) begin
+      assign isInitialized = 1;
+      if (currentFrame == 0) begin
+        assign CE0 = 1'b1;
+      end
+      if (currentFrame == 1) begin
+        assign CE1 = 1'b1;
+      end
+      if (currentFrame == 2) begin
+        assign CE2 = 1'b1;
+      end
+    end
+
+    //
     
   end
 

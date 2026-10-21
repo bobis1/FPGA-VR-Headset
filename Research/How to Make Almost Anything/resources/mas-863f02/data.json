@@ -1,0 +1,21 @@
+{
+  "content": "<p>Photo of the MIT Media Lab waterjet cutter at work. (Courtesy of Prof. Neil Gershenfeld and Prof. Issac Chuang.)</p>\n",
+  "content_type": "resource",
+  "description": "Photo of the MIT Media Lab waterjet cutter at work. (Courtesy of Prof. Neil Gershenfeld and Prof. Issac Chuang.)",
+  "draft": false,
+  "file": "/courses/mas-863-how-to-make-almost-anything-fall-2002/2163303b679d345cd6e715248a29fd20_mas-863f02.jpg",
+  "file_size": 23033,
+  "file_type": "image/jpeg",
+  "image_metadata": {
+    "caption": "Photo of the MIT Media Lab waterjet cutter at work. (Courtesy of Prof. Neil Gershenfeld and Prof. Issac Chuang.)",
+    "credit": "",
+    "image-alt": "Photo of the MIT Media Lab waterjet cutter at work."
+  },
+  "iscjklanguage": false,
+  "learning_resource_types": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "OCWImage",
+  "resourcetype": "Image",
+  "title": "Waterjet Cutter",
+  "uid": "2163303b-679d-345c-d6e7-15248a29fd20"
+}

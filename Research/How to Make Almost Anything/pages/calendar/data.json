@@ -1,0 +1,14 @@
+
+{
+  "content": "<p><table>\n\n<thead>\n\n<tr>\n\n<th>\n\nLEC #\n</th>\n\n<th>\n\nTopics\n</th>\n\n<th>\n\nInstructors\n</th>\n</p>\n</tr>\n\n<p></thead>\n\n<tr>\n\n<td>\n\n1\n</td>\n\n<td>\n\nDesign Tools\n</td>\n\n<td>\n\nGershenfeld<br>\nSawhney<br>\nDirekova\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\n2\n</td>\n\n<td>\n\nLaser, Waterjet, NC Knife Cutting\n</td>\n\n<td>\n\nGershenfeld<br>\nDiFrancesco<br>\nMohan\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\n3\n</td>\n\n<td>\n\nMicrocontroller Programming\n</td>\n\n<td>\n\nMikhak<br>\nLyon<br>\nMerrill\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\n4\n</td>\n\n<td>\n\nMachining\n</td>\n\n<td>\n\nGershenfeld<br>\nDiFrancesco<br>\nMiller\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\n5\n</td>\n\n<td>\n\nCircuit Design\n</td>\n\n<td>\n\nParadiso<br>\nMa<br>\nBenbasat<br>\nSung\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\n6\n</td>\n\n<td>\n\n3D Printing<br>\nNC Machining\n</td>\n\n<td>\n\nGershenfeld<br>\nDiFrancesco<br>\nSteinfeld\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\n7\n</td>\n\n<td>\n\nPCB Design<br>\nand Fabrication\n</td>\n\n<td>\n\nMikhak<br>\nLyon<br>\nAnanian\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\n8\n</td>\n\n<td>\n\nForming and Joining\n</td>\n\n<td>\n\nCsikszentmihalyi<br>\nMcKinley<br>\nRaffle\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\n9\n</td>\n\n<td>\n\nSensors, Actuators,<br>\nand Displays\n</td>\n\n<td>\n\nParadiso<br>\nMa<br>\nVora\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\n10\n</td>\n\n<td>\n\n3D Input\n</td>\n\n<td>\n\nGershenfeld<br>\nDiFrancesco<br>\nParkes\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\n11\n</td>\n\n<td>\n\nWired and Wireless<br>\nCommunications\n</td>\n\n<td>\n\nGershenfeld<br>\nKrikorian<br>\nKillian\n</td>\n</p>\n<p></tr>\n\n<tr>\n\n<td>\n\n12\n</td>\n\n<td>\n\nProject<br>\nPresentations\n</td>\n\n<td>\n\n \n</td>\n</p>\n</tr>\n\n</table>\n\n",
+  "content_type": "page",
+  "description": "This section provides the schedule of course topics and instructors.",
+  "draft": false,
+  "iscjklanguage": false,
+  "learning_resource_types": [],
+  "license": "https://creativecommons.org/licenses/by-nc-sa/4.0/",
+  "ocw_type": "CourseSection",
+  "title": "Calendar",
+  "uid": "3e61d739-1ca5-9845-a862-dc954771c1e1"
+}
+
