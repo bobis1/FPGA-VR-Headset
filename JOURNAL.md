@@ -55,3 +55,6 @@ https://lapse.hackclub.com/timelapse/kY6nB22MeFRg
 # Oct 21: More Firmware
 
 I really haven't been getting a lot of time to work on these things lately. I worked on getting more of the firmware for the FPGA setup. To my knowledge here is what I need to do: Split the input image down the middle and split it between 2 400x400 displays(12 bit colors). I also need to apply a barrel distortion thing to the image(It is basically a fish eye lens). I will also need to deal with some other stuff with the RP2040. Namely getting the IMU to work. I pretty much AI generated some drivers for it. For now I want the input to be comming in from outside via the HDMI input. Laster on I think it would be cool for it to be more self contained. but that is definitely for later on.
+
+Recording Links:
+https://lapse.hackclub.com/timelapse/MS8JdOkGMagv
