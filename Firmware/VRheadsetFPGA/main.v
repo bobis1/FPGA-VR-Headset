@@ -4,10 +4,9 @@ module main #(
     // Get the default blink divider from a macro defined in apio.ini.
     // In testing, the testbench override it with a very low value.
     parameter integer N = pN
-    reg initialRAMCount = 0;
+    
     parameter integer initialRAMCountEnd = 12375
-    reg isInitialized = 0;
-    reg currentFrame = 0; // Since we have a 3 frame buffer, 400x400 each with 12 bit color it will cycle through 0-2.
+ //Since we have a 3 frame buffer, 400x400 each with 12 bit color it will cycle through 0-2.
 
 		//parameter double X = `X
 		//parameter double Y = `Y
@@ -29,6 +28,9 @@ module main #(
 );
 
   wire FCLK;
+  reg isInitialized = 0;
+  reg currentFrame = 0; 
+  reg initialRAMCount = 0;
 
   SB_PLL40_CORE #(
     .FEEDBACK_PATH("SIMPLE"),
@@ -53,19 +55,23 @@ module main #(
     if (initialRAMCount >= initialRAMCountEnd) begin
       assign isInitialized = 1;
       if (currentFrame == 0) begin
-        assign CE0 = 1'b1;
-      end
-      if (currentFrame == 1) begin
+        assign CE0 = 0'b1;
         assign CE1 = 1'b1;
-      end
-      if (currentFrame == 2) begin
         assign CE2 = 1'b1;
       end
+      if (currentFrame == 1) begin
+        assign CE1 = 0'b1;
+        assign CE0 = 1'b1;
+        assign CE2 = 1'b1;
+      end
+      if (currentFrame == 2) begin
+        assign CE2 = 0'b1;
+        assign CE0 = 1'b1;
+        assign CE1 = 1'b1;
+      end
     end
-    
-
-    
   end
+
 
 endmodule
 

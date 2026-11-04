@@ -1,0 +1,32 @@
+timestamp: "01183419264"
+arch: ice40
+fpga_info {
+  fpga_id: "ice40hx4k-tq144-8k"
+  part_num: "ICE40HX4K-TQ144"
+  size: "8k"
+  ice40_params {
+    type: "hx8k"
+    package: "tq144:4k"
+  }
+}
+verbosity {
+  all: false
+  synth: false
+  pnr: false
+}
+environment {
+  platform_id: "darwin-arm64"
+  is_windows: false
+  terminal_mode: FORCE_TERMINAL
+  theme_name: "light"
+  yosys_path: "/Users/joseph/.apio/packages/oss-cad-suite/share/yosys"
+  trellis_path: "/Users/joseph/.apio/packages/oss-cad-suite/share/trellis"
+  scons_shell_id: "zsh"
+  xilinx_prjxray_db_path: "/Users/joseph/.apio/packages/openxc7/share/nextpnr/external/prjxray-db"
+}
+apio_env_params {
+  env_name: "blink-slow"
+  board_id: "alhambra-ii"
+  top_module: "main"
+  defines: "N=4_000_000"
+}

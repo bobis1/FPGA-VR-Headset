@@ -58,3 +58,14 @@ I really haven't been getting a lot of time to work on these things lately. I wo
 
 Recording Links:
 https://lapse.hackclub.com/timelapse/MS8JdOkGMagv
+
+**Total Time Spent: 0.76 hours**
+
+# Nov 3: TMDS encoder work
+I mostly worked on getting the TMDS encoder to work like last time. I have no idea what I am doing in verilog to be honest so it is taking ahwhile to get it all done. There is not alot to say for this other than that to be honest. After I finish this I need to work on the PCB and the 3d CAD part of it. I think that utilizing the RP2040 will take ahwile. I also need to add some header pins to the some of the FPGA pins so that I can bodge it on if I need to later on.
+
+Recording Links:
+https://lapse.hackclub.com/timelapse/8gPLSjVFVQNA
+https://lapse.hackclub.com/timelapse/nOFOjftZjut-
+
+**Total Time spend: 0.75**
